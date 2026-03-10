@@ -1,0 +1,2 @@
+- Church encoding
+- "Generics" / Polymorphism OR add other primitive datatype
